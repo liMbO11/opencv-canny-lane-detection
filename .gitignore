@@ -1,0 +1,8 @@
+# Qt Creator local settings and generated build files
+*.pro.user*
+*.user*
+Makefile
+*.o
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
